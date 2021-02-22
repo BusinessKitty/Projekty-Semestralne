@@ -1,0 +1,4 @@
+player1 102
+player2 43
+player3 0
+player0 1111

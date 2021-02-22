@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Fruit">
+    <Position X="2" Y="0.5" Width="2" />
+    <InheritanceLine Type="Tile" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="4.5" Y="4.375" />
+        <Point X="3.984" Y="4.375" />
+        <Point X="3.984" Y="4.375" />
+        <Point X="2.938" Y="4.375" />
+        <Point X="2.938" Y="2.761" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAACAgCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAACA=</HashCode>
+      <FileName>Headers\Fruit.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameInfo">
+    <Position X="9.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAIgEAoAAAIQgCQIAKAQACIAAAABIEAAAAAAAAAAA=</HashCode>
+      <FileName>Headers\GameInfo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SnakePart">
+    <Position X="7" Y="0.5" Width="2" />
+    <InheritanceLine Type="Tile" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.5" Y="4.375" />
+        <Point X="8" Y="4.375" />
+        <Point X="8" Y="3.531" />
+      </Path>
+    </InheritanceLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQCAAAJAAAAAAIAAAAAAAABACAIAAAE=</HashCode>
+      <FileName>Headers\SnakePart.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tile">
+    <Position X="4.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAABAGAQAAABAABiAAAABgAGAAQQA=</HashCode>
+      <FileName>Headers\Tile.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,20 @@
+﻿  Fruit.cpp
+  GameInfo.cpp
+  Global.cpp
+  Main.cpp
+C:\Users\quant\Desktop\Snake\Sources\Main.cpp(18,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Main.cpp(35,37): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Main.cpp(132,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\quant\Desktop\Snake\Sources\Main.cpp(155,25): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Main.cpp(299,39): warning C4244: 'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+  SnakePart.cpp
+  Tile.cpp
+C:\Users\quant\Desktop\Snake\Sources\Tile.cpp(35,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Tile.cpp(35,18): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Tile.cpp(38,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\quant\Desktop\Snake\Sources\Tile.cpp(38,24): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 253 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Snake.vcxproj -> C:\Users\quant\Desktop\Snake\Release\Snake.exe
