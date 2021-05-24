@@ -1,0 +1,1 @@
+Plik Scrabble.exe musi być zawsze w tym samym folderze, co folder Resources.
